@@ -1,16 +1,11 @@
-## Hi there 👋
+## Hi, my name is Jerocelle 👋🏽 
 
-<!--
-**jerocellev1/jerocellev1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🌱 I’m currently learning **Cloud Engineering** and **Python**
+  -   👯 looking to collaborate with projects in **_Marketing_**, **_Fintech_** or **_Business Intelligence_**
+  -   🤔 get insights on how to get into the field
+- 💬 My background is in **Marketing**
+  -   📈 ask me about _**Digital Media Analytics**_, _**Marketing Tag Implementations**_, and _**Data Analysis/Visualizations**_
+- 📫 How to reach me:
+  -  _**[LinkedIn](https://www.linkedin.com/in/jerocellegingo/)**_
+- ⚡ Fun fact:
+  -   🌴 Cebu, PH 🇵🇭 native, with a passion for 📺 anime, 🍚 food, 🖌️calligraphy and 🏐 volleyball
